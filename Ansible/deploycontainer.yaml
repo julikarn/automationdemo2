@@ -17,8 +17,8 @@
         name: pexpect
         
     - name: Install docker
-       pip:
-         name: docker
+      pip:
+        name: docker
 
 
     - name: Run Docker container
